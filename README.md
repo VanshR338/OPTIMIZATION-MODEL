@@ -60,3 +60,5 @@ Applications
 This project has broad applications in operations research, supply chain management, and strategic planning. The approach can be scaled and adapted to other manufacturing scenarios, such as optimizing production schedules, raw material purchases, or delivery logistics.
 
 # -OUTPUT
+
+![Image](https://github.com/user-attachments/assets/f20e6af1-5603-4aa6-93bc-9a957bab4446)
